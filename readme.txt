@@ -1,0 +1,1 @@
+Bu phaser ile yapılmış basit bir oyundur.
